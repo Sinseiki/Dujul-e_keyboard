@@ -195,3 +195,7 @@
 입니다.
 
 ---
+
+## 참고) 두줄이 모아치기에 대하여
+
+해당 부분에 대해서는 [링크](https://github.com/Sinseiki/Dugyeob-e_Moachigi/blob/main/README.md)를 참고하시기 바랍니다.
