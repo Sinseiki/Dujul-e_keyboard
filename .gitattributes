@@ -1,0 +1,6 @@
+*.png linguist-vendored
+*.pdf linguist-documentation
+*.xlsx linguist-documentation
+
+*.xml linguist-language=XML
+*.xml linguist-detectable=true
