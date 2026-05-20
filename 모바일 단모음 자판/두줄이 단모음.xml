@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InputEntry>
+	<InputSchemeSetting flag="0" remark="두줄이 단모음 - 만든이 : 신세기&#x0D;&#x0A;&#x0D;&#x0A;- 모바일 용으로 제작된 두줄이(두벌식 줄맞춤 e) 자판의 단모음 레이아웃입니다.&#x0D;&#x0A;- 기존 단모음 자판과 비슷하게 모음을 두 번 누르면 윗글쇠 모음의 입력이 가능합니다.&#x0D;&#x0A;- 또한 ㄲ,ㄸ,ㅃ,ㅉ는 시프트나 빠르게 두 번 자음을 누르는 것으로 입력이 가능합니다.&#x0D;&#x0A;" name="두벌식 줄맞춤 e 단모음" object="CBasicInputScheme">
+		<KeyTable name="" flag="PREFIX" from="33" to="126" before="q=0">
+			<Key at="0x21" value="0x21"/>
+			<Key at="0x22" value="0x22"/>
+			<Key at="0x23" value="0x23"/>
+			<Key at="0x24" value="0x24"/>
+			<Key at="0x25" value="0x25"/>
+			<Key at="0x26" value="0x26"/>
+			<Key at="0x27" value="0x27"/>
+			<Key at="0x28" value="0x28"/>
+			<Key at="0x29" value="0x29"/>
+			<Key at="0x2A" value="0x2A"/>
+			<Key at="0x2B" value="0x2B"/>
+			<Key at="0x2C" value="0x2C"/>
+			<Key at="0x2D" value="0x2D"/>
+			<Key at="0x2E" value="0x2E"/>
+			<Key at="0x2F" value="0x2F"/>
+			<Key at="0x30" value="0x30"/>
+			<Key at="0x31" value="0x31"/>
+			<Key at="0x32" value="0x32"/>
+			<Key at="0x33" value="0x33"/>
+			<Key at="0x34" value="0x34"/>
+			<Key at="0x35" value="0x35"/>
+			<Key at="0x36" value="0x36"/>
+			<Key at="0x37" value="0x37"/>
+			<Key at="0x38" value="0x38"/>
+			<Key at="0x39" value="0x39"/>
+			<Key at="0x3A" value="0x3A"/>
+			<Key at="0x3B" value="0x3B"/>
+			<Key at="0x3C" value="0x3C"/>
+			<Key at="0x3D" value="0x3D"/>
+			<Key at="0x3E" value="0x3E"/>
+			<Key at="0x3F" value="0x3F"/>
+			<Key at="0x40" value="0x40"/>
+			<Key at="0x45" value="H3|DD"/>
+			<Key at="0x46" value="q=500, T&lt;=1 ? H2|GG : H2|_GG"/>
+			<Key at="0x49" value="H2|YEO"/>
+			<Key at="0x4A" value="H2|EUI"/>
+			<Key at="0x4B" value="H2|YA"/>
+			<Key at="0x4D" value="H2|YE"/>
+			<Key at="0x4E" value="H2|YAE"/>
+			<Key at="0x4F" value="H2|YO"/>
+			<Key at="0x50" value="H2|YU"/>
+			<Key at="0x51" value="H3|BB"/>
+			<Key at="0x57" value="H3|JJ"/>
+			<Key at="0x5B" value="0x5B"/>
+			<Key at="0x5C" value="0x5C"/>
+			<Key at="0x5D" value="0x5D"/>
+			<Key at="0x5E" value="0x5E"/>
+			<Key at="0x5F" value="0x5F"/>
+			<Key at="0x60" value="0x60"/>
+			<Key at="0x61" value="T&lt;=1 ? H2|M_ : H2|_M"/>
+			<Key at="0x62" value="T&lt;=1 ? H2|P_ : H2|_P"/>
+			<Key at="0x63" value="T&lt;=1 ? H2|C_ : H2|_C"/>
+			<Key at="0x64" value="T&lt;=1 ? H2|Q_ : H2|_Q"/>
+			<Key at="0x65" value="q=500, T&lt;=1 ? H2|D_ : H2|_D"/>
+			<Key at="0x66" value="q=500, T&lt;=1 ? H2|G_ : H2|_G"/>
+			<Key at="0x67" value="T&lt;=1 ? H2|R_ : H2|_R"/>
+			<Key at="0x69" value="q=500, H2|EO"/>
+			<Key at="0x6A" value="q=500, H2|EU"/>
+			<Key at="0x6B" value="q=500, H2|A_"/>
+			<Key at="0x6C" value="H2|I_"/>
+			<Key at="0x6D" value="q=500, H2|E_"/>
+			<Key at="0x6E" value="q=500, H2|AE"/>
+			<Key at="0x6F" value="q=500, H2|O_"/>
+			<Key at="0x70" value="q=500, H2|U_"/>
+			<Key at="0x71" value="q=500, T&lt;=1 ? H2|B_ : H2|_B"/>
+			<Key at="0x72" value="T&lt;=1 ? H2|H_ : H2|_H"/>
+			<Key at="0x73" value="T&lt;=1 ? H2|N_ : H2|_N"/>
+			<Key at="0x74" value="T&lt;=1 ? H2|S_ : H2|_S"/>
+			<Key at="0x76" value="T&lt;=1 ? H2|SS : H2|_SS"/>
+			<Key at="0x77" value="q=500, T&lt;=1 ? H2|J_ : H2|_J"/>
+			<Key at="0x78" value="T&lt;=1 ? H2|T_ : H2|_T"/>
+			<Key at="0x7A" value="T&lt;=1 ? H2|K_ : H2|_K"/>
+			<Key at="0x7B" value="0x7B"/>
+			<Key at="0x7C" value="0x7C"/>
+			<Key at="0x7D" value="0x7D"/>
+			<Key at="0x7E" value="0x7E"/>
+		</KeyTable>
+	</InputSchemeSetting>
+	<GeneratorSetting flag="AUTOMATIC_TIMER" object="CNgsIme">
+		<UnitMixTable>
+			<UnitMix unit="CHO" a="G_" b="G_" to="GG"/>
+			<UnitMix unit="CHO" a="D_" b="D_" to="DD"/>
+			<UnitMix unit="CHO" a="B_" b="B_" to="BB"/>
+			<UnitMix unit="CHO" a="J_" b="J_" to="JJ"/>
+			<UnitMix unit="JUNG" a="A_" b="A_" to="YA"/>
+			<UnitMix unit="JUNG" a="AE" b="AE" to="YAE"/>
+			<UnitMix unit="JUNG" a="EO" b="EO" to="YEO"/>
+			<UnitMix unit="JUNG" a="E_" b="E_" to="YE"/>
+			<UnitMix unit="JUNG" a="O_" b="A_" to="WA"/>
+			<UnitMix unit="JUNG" a="O_" b="AE" to="WAE"/>
+			<UnitMix unit="JUNG" a="O_" b="O_" to="YO"/>
+			<UnitMix unit="JUNG" a="O_" b="I_" to="OI"/>
+			<UnitMix unit="JUNG" a="U_" b="EO" to="UEO"/>
+			<UnitMix unit="JUNG" a="U_" b="E_" to="WE"/>
+			<UnitMix unit="JUNG" a="U_" b="U_" to="YU"/>
+			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
+			<UnitMix unit="JUNG" a="EU" b="EU" to="EUI"/>
+			<UnitMix unit="JUNG" a="EU" b="I_" to="EUI"/>
+			<UnitMix unit="JONG" a="G_" b="G_" to="GG"/>
+			<UnitMix unit="JONG" a="G_" b="S_" to="GS"/>
+			<UnitMix unit="JONG" a="GG" b="G_" to="65531"/>
+			<UnitMix unit="JONG" a="GS" b="S_" to="65531"/>
+			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
+			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="NJ" b="J_" to="65531"/>
+			<UnitMix unit="JONG" a="D_" b="D_" to="65531"/>
+			<UnitMix unit="JONG" a="R_" b="G_" to="RG"/>
+			<UnitMix unit="JONG" a="R_" b="M_" to="RM"/>
+			<UnitMix unit="JONG" a="R_" b="B_" to="RB"/>
+			<UnitMix unit="JONG" a="R_" b="S_" to="RS"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
+			<UnitMix unit="JONG" a="RG" b="G_" to="65531"/>
+			<UnitMix unit="JONG" a="RB" b="B_" to="65531"/>
+			<UnitMix unit="JONG" a="RS" b="S_" to="65531"/>
+			<UnitMix unit="JONG" a="B_" b="B_" to="65531"/>
+			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
+			<UnitMix unit="JONG" a="BS" b="S_" to="65531"/>
+			<UnitMix unit="JONG" a="SS" b="S_" to="65531"/>
+			<UnitMix unit="JONG" a="J_" b="J_" to="65531"/>
+		</UnitMixTable>
+		<VirtualUnitTable/>
+		<JackolanternTable>
+			<Jackolantern jongfrom="GG" jongto="0" choto="GG" fetch="TRUE" fetchfrom="0"/>
+			<Jackolantern jongfrom="SS" jongto="0" choto="SS" fetch="TRUE" fetchfrom="0"/>
+		</JackolanternTable>
+		<UnitAbbrTable/>
+		<AutomataTable default="0">
+			<Automata state="0" value="A ? 1 : B ? 3 : C ? 4 : 0" default="0" remark="초기 상태"/>
+			<Automata state="1" value="A ? 1 : B ? 2 : 0" default="0" remark="초성"/>
+			<Automata state="2" value="B ? 2 : C ? 4 : 0" default="0" remark="초성 + 중성"/>
+			<Automata state="3" value="B ? 3 : 0" default="0" remark="중성"/>
+			<Automata state="4" value="C ? 4 : 0" default="0" remark="[초성+중성] + 종성"/>
+			<Automata state="5" value="B ? 2 : 0" default="0" remark="초성 타이머 경과 후. 중성 입력만 가능."/>
+			<Automata state="6" value="B&amp;&amp;B!=E ? 2 : C ? 4 : 0" default="0" remark="초+중 상태에서 중성 타이머 경과 후. 같은 중성 연타는 할 수 없음"/>
+			<Automata state="7" value="B&amp;&amp;B!=E ? 3 : 0" default="0" remark="중성 단독 상태에서 중성 타이머 경과 후. 같은 중성 연타는 할 수 없음"/>
+			<Automata state="8" value="0" default="0" remark="종성 타이머 경과 후. 도깨비불만 가능하고 종성 결합 불가"/>
+		</AutomataTable>
+		<Extra>
+			<Bksp key="1" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="2" value1="BySyllable" value2="ByUnitStep" condition1="0" condition2="0"/>
+			<Bksp key="3" value1="0" value2="0" condition1="0" condition2="0"/>
+			<Bksp key="4" value1="0" value2="0" condition1="0" condition2="0"/>
+			<Timer key="1" value1="1" value2="STOP_FINISH_COMPO|STOP_END_COMPO" condition1="T&gt;=1&amp;&amp;T&lt;=4 ? q : 0" condition2="C1|T+4"/>
+			<Timer key="2" value1="-2" value2="0" condition1="0" condition2="0"/>
+			<Timer key="3" value1="-2" value2="0" condition1="0" condition2="0"/>
+		</Extra>
+	</GeneratorSetting>
+</InputEntry>
