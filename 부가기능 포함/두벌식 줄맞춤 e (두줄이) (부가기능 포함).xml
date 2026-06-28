@@ -16,7 +16,7 @@
 			<Key at="0x2C" value="Z ? (Z=0, 0x3C) : 0x2C"/>
 			<Key at="0x2D" value="Z ? (Z=0, 0x5F) : 0x2D"/>
 			<Key at="0x2E" value="Z ? (Z=0, 0x3E) : 0x2E"/>
-			<Key at="0x2F" value="Z ? (Z=0, 0x3F) : (D==1 || D==24 || D==86 || D==161)&amp;&amp;!E ? H2|0x1F4 : (E==5 || E==15)&amp;&amp;!F ? H2|0x1F50000 : F==1 ? (h=1, H2|_GG) : F==20 || F==24 || F==37 || F==51 || F==86 || F==161 ? H2|0x1F400000000 : 0x2F"/>
+			<Key at="0x2F" value="Z ? (Z=0, 0x3F) : (D==1 || D==24 || D==86 || D==161)&amp;&amp;!E ? H2|0x1F4 : (E==5 || E==15)&amp;&amp;!F ? H2|0x1F50000 : F==1 ? (h=1, H2|_GG) : F==7 || F==20 || F==24 || F==37 || F==51 || F==86 || F==94 || F==161 ? H2|0x1F400000000 : 0x2F"/>
 			<Key at="0x30" value="Z ? (Z=0, 0x29) : 0x30"/>
 			<Key at="0x31" value="Z ? (Z=0, 0x21) : 0x31"/>
 			<Key at="0x32" value="Z ? (Z=0, 0x40) : 0x32"/>
@@ -296,6 +296,7 @@
 			<UnitMix unit="JUNG" a="I_" b="EU" to="EUI"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
 			<UnitMix unit="JONG" a="G_" b="S_" to="GS"/>
+			<UnitMix unit="JONG" a="GS" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
 			<UnitMix unit="JONG" a="NJ" b="500" to="65531"/>
@@ -313,6 +314,7 @@
 			<UnitMix unit="JONG" a="B_" b="R_" to="RB"/>
 			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
 			<UnitMix unit="JONG" a="B_" b="500" to="65531"/>
+			<UnitMix unit="JONG" a="BS" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="S_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="S_" b="R_" to="RS"/>
 			<UnitMix unit="JONG" a="S_" b="B_" to="BS"/>
