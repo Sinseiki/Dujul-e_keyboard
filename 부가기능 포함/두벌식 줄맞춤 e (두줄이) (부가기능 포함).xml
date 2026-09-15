@@ -75,7 +75,7 @@
 			<Key at="0x67" value="Z ? (Z=0, 0x25CE) : T&lt;=1 ? H2|R_ : H2|_R"/>
 			<Key at="0x68" value="Z ? (Z=0, 0x203B) : H2|O_"/>
 			<Key at="0x69" value="Z ? (Z=0, H3|_BS) : T!=2 ? H2|YEO : H3|_BS"/>
-			<Key at="0x6A" value="Z ? (Z=0, H3|_NH) : T!=2 ? H2|EU : H3|_NH"/>
+			<Key at="0x6A" value="Z ? (Z=0, H3|_NH) : T!=2 || E==73 ? H2|EU : H3|_NH"/>
 			<Key at="0x6B" value="Z ? (Z=0, H3|_RG) : T!=2 || E==21 ? H2|A_ : H3|_RG"/>
 			<Key at="0x6C" value="Z ? (Z=0, T&lt;=1 ? H2|GG : H2|_GG) : T!=2 || E==21 || E==43 || E==64 ? H2|I_ : T&lt;=1 ? H2|GG : H2|_GG"/>
 			<Key at="0x6D" value="Z ? (Z=0, H2|YE) : H2|E_"/>
